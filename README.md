@@ -8,6 +8,7 @@ TicTacToe.java
 The game will ask each player to enter a number between 1 and 9 to place their mark ('X' or 'O') on the board.
 
 The numbers represent positions on the board like this:
+
 1 | 2 | 3
 
 4 | 5 | 6 
